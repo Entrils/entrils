@@ -1,17 +1,60 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/entrils" target="_blank">Andrew</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">information security of telecommunication systems student, Frontend developer from Russia 🇷🇺 </h3>
+<h1 align="center">
+  Hi, I'm <a href="https://t.me/entrils" target="_blank">Andrew</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30" alt="Hi"/>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Не+надо+молча+делать+блестящую+работу:+лучше+делать+средне,+но+обо+всём+ставить+в+известность.)](https://git.io/typing-svg)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<h3 align="left">My coding accounts:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/needway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="needway" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/entrils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="entrils" height="30" width="40" /></a>
+<p align="center">
+  Hraduated from Information Security of Telecommunication Systems<br/>
+  Frontend Developer from Russia 🇷🇺
 </p>
-<h1>My GitHub stats: </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entrils&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Не+надо+молча+делать+блестящую+работу;Лучше+делать+средне,+но+держать+в+курсе">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&size=16&lines=Не+надо+молча+делать+блестящую+работу;Лучше+делать+средне,+но+держать+в+курсе" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Entrils's GitHub stats](https://github-readme-stats.vercel.app/api?username=entrils&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+## Coding Profiles
+
+<p>
+  <a href="https://codeforces.com/profile/needway" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-needway-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/entrils" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-entrils-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://t.me/entrils" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@entrils-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=entrils&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=entrils&theme=github_dark" alt="GitHub Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=entrils&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=entrils&theme=github_dark" alt="Most Commit Language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=entrils&theme=github_dark&utcOffset=3" alt="Productive Time" />
+</p>
