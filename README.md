@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Hraduated from Information Security of Telecommunication Systems<br/>
+  Graduated from Information Security of Telecommunication Systems<br/>
   Frontend Developer from Russia 🇷🇺
 </p>
 
